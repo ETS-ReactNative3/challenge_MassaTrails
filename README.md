@@ -1,5 +1,6 @@
 # challenge_MassaTrails
-Application mobile développée avec React native 
+Application de test mobile développée avec React native dans le cadre d'un challenge pour MassaTrails
+
 
 ## Installation
 
