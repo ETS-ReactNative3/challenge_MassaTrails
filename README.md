@@ -5,5 +5,5 @@ Application de test mobile développée avec React native dans le cadre d'un cha
 ## Installation
 
 npm install -g expo-cli
-npm install
-npm start
+<br>npm install
+<br>npm start
